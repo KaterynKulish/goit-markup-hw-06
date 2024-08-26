@@ -927,6 +927,20 @@ section {
   .item-portfolio {
     width: calc((100% - 24px) / 2);
   }
+
+  /* footer */
+
+  .footer {
+    padding: 96px 164px 96px 108px;
+    text-align: left;
+  }
+  .footer-container {
+    row-gap: 72px;
+    column-gap: 24px;
+  }
+  .footer-container div {
+    width: calc((100% - 24px) / 2);
+  }
 }
 
 @media screen and (min-width: 1158px) {
