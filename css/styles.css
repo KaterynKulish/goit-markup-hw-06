@@ -986,7 +986,7 @@ section {
     text-align: left;
   }
   .footer-container {
-    padding-left: 108px;
+    width: 584px;
     justify-content: flex-start;
     row-gap: 72px;
     column-gap: 24px;
